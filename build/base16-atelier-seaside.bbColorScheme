@@ -3,150 +3,150 @@
 <plist version="1.0">
 <dict>
 	<key>BackgroundColor</key>
-	<string>#{{ base00-hex }}</string>
+	<string>#131513</string>
 	<key>InsertionPointLineHighlightColor</key>
-	<string>#{{ base01-hex }}</string>
+	<string>#242924</string>
 	<key>PrimaryHighlightColor</key>
-	<string>#{{ base02-hex }}</string>
+	<string>#5e6e5e</string>
 	<key>DifferenceHighlightColor</key>
-	<string>#{{ base03-hex }}</string>
+	<string>#687d68</string>
 	<key>InvisibleOthersColor</key>
-	<string>#{{ base03-hex }}</string>
+	<string>#687d68</string>
 	<key>InvisibleSpacesColor</key>
-	<string>#{{ base03-hex }}</string>
+	<string>#687d68</string>
 	<key>com.barebones.bblm.comment</key>
-	<string>#{{ base03-hex }}</string>
+	<string>#687d68</string>
 	<key>com.barebones.bblm.verilog-hdl.comment-3</key>
-	<string>#{{ base03-hex }}</string>
+	<string>#687d68</string>
 	<key>com.barebones.bblm.vhdl.comment-3</key>
-	<string>#{{ base03-hex }}</string>
+	<string>#687d68</string>
 	<key>com.barebones.bblm.verilog-hdl.comment-2</key>
-	<string>#{{ base03-hex }}</string>
+	<string>#687d68</string>
 	<key>com.barebones.bblm.vhdl.comment-2</key>
-	<string>#{{ base03-hex }}</string>
+	<string>#687d68</string>
 	<key>com.barebones.bblm.verilog-hdl.comment-1</key>
-	<string>#{{ base03-hex }}</string>
+	<string>#687d68</string>
 	<key>com.barebones.bblm.vhdl.comment-1</key>
-	<string>#{{ base03-hex }}</string>
+	<string>#687d68</string>
 	<key>SecondaryHighlightColor</key>
-	<string>#{{ base02-hex }}</string>
+	<string>#5e6e5e</string>
 	<key>com.barebones.bblm.markdown.ImageAltText</key>
-	<string>#{{ base04-hex }}</string>
+	<string>#809980</string>
 	<key>com.barebones.bblm.code</key>
-	<string>#{{ base05-hex }}</string>
+	<string>#8ca68c</string>
 	<key>com.barebones.bblm.TeX.verbatim</key>
-	<string>#{{ base05-hex }}</string>
+	<string>#8ca68c</string>
 	<key>com.barebones.bblm.markdown.HorizontalRule</key>
-	<string>#{{ base05-hex }}</string>
+	<string>#8ca68c</string>
 	<key>com.barebones.bblm.markdown.InlineCode</key>
-	<string>#{{ base05-hex }}</string>
+	<string>#8ca68c</string>
 	<key>com.barebones.bblm.markdown.Pre</key>
-	<string>#{{ base05-hex }}</string>
+	<string>#8ca68c</string>
 	<key>com.barebones.bblm.xml-empty</key>
-	<string>#{{ base05-hex }}</string>
+	<string>#8ca68c</string>
 	<key>com.barebones.bblm.markdown.InlineLinkText</key>
-	<string>#{{ base08-hex }}</string>
+	<string>#e6193c</string>
 	<key>com.barebones.bblm.variable</key>
-	<string>#{{ base08-hex }}</string>
+	<string>#e6193c</string>
 	<key>com.barebones.bblm.sgml-tag</key>
-	<string>#{{ base08-hex }}</string>
+	<string>#e6193c</string>
 	<key>SpellingColor</key>
-	<string>#{{ base08-hex }}</string>
+	<string>#e6193c</string>
 	<key>com.barebones.bblm.markdown.ListItemMarker</key>
-	<string>#{{ base08-hex }}</string>
+	<string>#e6193c</string>
 	<key>com.barebones.bblm.markdown.LinkDefUrl</key>
-	<string>#{{ base09-hex }}</string>
+	<string>#87711d</string>
 	<key>com.barebones.bblm.html.attribute-name</key>
-	<string>#{{ base09-hex }}</string>
+	<string>#87711d</string>
 	<key>com.barebones.bblm.number</key>
-	<string>#{{ base09-hex }}</string>
+	<string>#87711d</string>
 	<key>com.barebones.bblm.verilog-hdl.input-type</key>
-	<string>#{{ base09-hex }}</string>
+	<string>#87711d</string>
 	<key>com.barebones.bblm.css.color-spec</key>
-	<string>#{{ base0A-hex }}</string>
+	<string>#98981b</string>
 	<key>com.barebones.bblm.indexed-symbol</key>
-	<string>#{{ base0A-hex }}</string>
+	<string>#98981b</string>
 	<key>com.barebones.bblm.perl.outer-pod</key>
-	<string>#{{ base0A-hex }}</string>
+	<string>#98981b</string>
 	<key>com.barebones.bblm.ruby.symbol</key>
-	<string>#{{ base0A-hex }}</string>
+	<string>#98981b</string>
 	<key>com.barebones.bblm.sgml-entity</key>
-	<string>#{{ base0A-hex }}</string>
+	<string>#98981b</string>
 	<key>com.barebones.bblm.verilog-hdl.register-type</key>
-	<string>#{{ base0A-hex }}</string>
+	<string>#98981b</string>
 	<key>com.barebones.bblm.verilog-hdl.wire-type</key>
-	<string>#{{ base0A-hex }}</string>
+	<string>#98981b</string>
 	<key>com.barebones.bblm.perl.pre-generic-string</key>
-	<string>#{{ base0B-hex }}</string>
+	<string>#29a329</string>
 	<key>com.barebones.bblm.Pyth.triple-string</key>
-	<string>#{{ base0B-hex }}</string>
+	<string>#29a329</string>
 	<key>com.barebones.bblm.TeX.math-string</key>
-	<string>#{{ base0B-hex }}</string>
+	<string>#29a329</string>
 	<key>com.barebones.bblm.file-include</key>
-	<string>#{{ base0B-hex }}</string>
+	<string>#29a329</string>
 	<key>com.barebones.bblm.heredoc-string</key>
-	<string>#{{ base0B-hex }}</string>
+	<string>#29a329</string>
 	<key>com.barebones.bblm.html.attribute-value</key>
-	<string>#{{ base0B-hex }}</string>
+	<string>#29a329</string>
 	<key>com.barebones.bblm.markdown.LinkDefTitle</key>
-	<string>#{{ base0B-hex }}</string>
+	<string>#29a329</string>
 	<key>com.barebones.bblm.perl.generic-string</key>
-	<string>#{{ base0B-hex }}</string>
+	<string>#29a329</string>
 	<key>com.barebones.bblm.string</key>
-	<string>#{{ base0B-hex }}</string>
+	<string>#29a329</string>
 	<key>com.barebones.bblm.markdown.QuotedContent</key>
-	<string>#{{ base0C-hex }}</string>
+	<string>#1999b3</string>
 	<key>com.barebones.bblm.grep.escape-sequence</key>
-	<string>#{{ base0C-hex }}</string>
+	<string>#1999b3</string>
 	<key>com.barebones.bblm.grep.posix-name</key>
-	<string>#{{ base0C-hex }}</string>
+	<string>#1999b3</string>
 	<key>com.barebones.bblm.predefined-symbol</key>
-	<string>#{{ base0C-hex }}</string>
+	<string>#1999b3</string>
 	<key>com.barebones.bblm.html.anchor</key>
-	<string>#{{ base0C-hex }}</string>
+	<string>#1999b3</string>
 	<key>com.barebones.bblm.html.image</key>
-	<string>#{{ base0C-hex }}</string>
+	<string>#1999b3</string>
 	<key>com.barebones.bblm.markdown.QuoteMarker</key>
-	<string>#{{ base0C-hex }}</string>
+	<string>#1999b3</string>
 	<key>com.barebones.bblm.JavaScript.regexp</key>
-	<string>#{{ base0C-hex }}</string>
+	<string>#1999b3</string>
 	<key>com.barebones.bblm.grep.metasequence</key>
-	<string>#{{ base0C-hex }}</string>
+	<string>#1999b3</string>
 	<key>com.barebones.bblm.ruby.regexp</key>
-	<string>#{{ base0C-hex }}</string>
+	<string>#1999b3</string>
 	<key>com.barebones.bblm.grep.repeat-data</key>
-	<string>#{{ base0D-hex }}</string>
+	<string>#3d62f5</string>
 	<key>com.barebones.bblm.grep.repeat</key>
-	<string>#{{ base0D-hex }}</string>
+	<string>#3d62f5</string>
 	<key>com.barebones.bblm.markdown.ImageId</key>
-	<string>#{{ base0D-hex }}</string>
+	<string>#3d62f5</string>
 	<key>com.barebones.bblm.markdown.LinkDefId</key>
-	<string>#{{ base0D-hex }}</string>
+	<string>#3d62f5</string>
 	<key>com.barebones.bblm.Pyth.decorator</key>
-	<string>#{{ base0D-hex }}</string>
+	<string>#3d62f5</string>
 	<key>com.barebones.bblm.grep.charclass</key>
-	<string>#{{ base0E-hex }}</string>
+	<string>#ad2bee</string>
 	<key>com.barebones.bblm.grep.metachar</key>
-	<string>#{{ base0E-hex }}</string>
+	<string>#ad2bee</string>
 	<key>com.barebones.bblm.markdown.Emph</key>
-	<string>#{{ base0E-hex }}</string>
+	<string>#ad2bee</string>
 	<key>com.barebones.bblm.TeX.param-content</key>
-	<string>#{{ base0E-hex }}</string>
+	<string>#ad2bee</string>
 	<key>com.barebones.bblm.keyword</key>
-	<string>#{{ base0E-hex }}</string>
+	<string>#ad2bee</string>
 	<key>com.barebones.bblm.markdown.Keyword</key>
-	<string>#{{ base0E-hex }}</string>
+	<string>#ad2bee</string>
 	<key>com.barebones.bblm.JavaScript.error</key>
-	<string>#{{ base0F-hex }}</string>
+	<string>#e619c3</string>
 	<key>com.barebones.bblm.preprocessor</key>
-	<string>#{{ base0F-hex }}</string>
+	<string>#e619c3</string>
 	<key>com.barebones.bblm.sgml-cdata</key>
-	<string>#{{ base0F-hex }}</string>
+	<string>#e619c3</string>
 	<key>com.barebones.bblm.sgml-decl</key>
-	<string>#{{ base0F-hex }}</string>
+	<string>#e619c3</string>
 	<key>com.barebones.bblm.verilog-hdl.output-type</key>
-	<string>#{{ base0F-hex }}</string>
+	<string>#e619c3</string>
 	<key>com.barebones.bblm.xml-pi</key>
-	<string>#{{ base0F-hex }}</string>
+	<string>#e619c3</string>
 </dict>
 </plist>
