@@ -30,8 +30,6 @@
 	<string>#007700</string>
 	<key>UseCustomHighlightColor</key>
 	<true/>
-	<key>com.barebones.bblm.JavaScript.error</key>
-	<string>#005500</string>
 	<key>com.barebones.bblm.JavaScript.regexp</key>
 	<string>#005500</string>
 	<key>com.barebones.bblm.Pyth.decorator</key>

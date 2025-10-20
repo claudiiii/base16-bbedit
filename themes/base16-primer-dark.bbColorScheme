@@ -30,8 +30,6 @@
 	<string>#484f58</string>
 	<key>UseCustomHighlightColor</key>
 	<true/>
-	<key>com.barebones.bblm.JavaScript.error</key>
-	<string>#bd561d</string>
 	<key>com.barebones.bblm.JavaScript.regexp</key>
 	<string>#a5d6ff</string>
 	<key>com.barebones.bblm.Pyth.decorator</key>
@@ -45,7 +43,7 @@
 	<key>com.barebones.bblm.TeX.verbatim</key>
 	<string>#3fb950</string>
 	<key>com.barebones.bblm.code</key>
-	<string>#3fb950</string>
+	<string>#b1bac4</string>
 	<key>com.barebones.bblm.comment</key>
 	<string>#484f58</string>
 	<key>com.barebones.bblm.css.color-spec</key>
