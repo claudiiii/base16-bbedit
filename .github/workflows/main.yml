@@ -1,0 +1,23 @@
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 20 * * 0"
+jobs:
+  build:
+    name: Build color schemes from template
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: Install Tinted Builder Rust
+      uses: tinted-theming/tinted-builder-rust@v0.13.2
+    - name: Update schemes
+      run: |
+          tinted-builder-rust sync
+          tinted-builder-rust build .
+    - name: Commit the changes, if any
+      uses: stefanzweifel/git-auto-commit-action@v7.0.0
+      with:
+        commit_message: Update with the latest tinted-theming colorschemes
