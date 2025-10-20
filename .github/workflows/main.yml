@@ -10,14 +10,16 @@ jobs:
     name: Build color schemes from template
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
-    - name: Install Tinted Builder Rust
-      uses: tinted-theming/tinted-builder-rust@v0.13.2
-    - name: Update schemes
-      run: |
+      - uses: actions/checkout@v4
+      - name: Install tinted-builder-rust
+        uses: taiki-e/install-action@v2.62.33
+        with:
+          tool: tinted-builder-rust
+      - name: Update schemes
+        run: |
           tinted-builder-rust sync
           tinted-builder-rust build .
-    - name: Commit the changes, if any
-      uses: stefanzweifel/git-auto-commit-action@v7.0.0
-      with:
-        commit_message: Update with the latest tinted-theming colorschemes
+      - name: Commit the changes, if any
+        uses: stefanzweifel/git-auto-commit-action@v7.0.0
+        with:
+          commit_message: Update with the latest tinted-theming colorschemes
