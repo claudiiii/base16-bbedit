@@ -4,148 +4,176 @@
 <dict>
 	<key>BackgroundColor</key>
 	<string>#282b35</string>
-	<key>InsertionPointLineHighlightColor</key>
-	<string>#3d4048</string>
-	<key>PrimaryHighlightColor</key>
-	<string>#53555d</string>
+	<key>DelimiterMatchHighlight</key>
+	<string>#939599</string>
 	<key>DifferenceHighlightColor</key>
 	<string>#686a71</string>
+	<key>InsertionPointLineHighlightColor</key>
+	<string>#3d4048</string>
 	<key>InvisibleOthersColor</key>
 	<string>#686a71</string>
 	<key>InvisibleSpacesColor</key>
 	<string>#686a71</string>
-	<key>com.barebones.bblm.comment</key>
-	<string>#686a71</string>
-	<key>com.barebones.bblm.verilog-hdl.comment-3</key>
-	<string>#686a71</string>
-	<key>com.barebones.bblm.vhdl.comment-3</key>
-	<string>#686a71</string>
-	<key>com.barebones.bblm.verilog-hdl.comment-2</key>
-	<string>#686a71</string>
-	<key>com.barebones.bblm.vhdl.comment-2</key>
-	<string>#686a71</string>
-	<key>com.barebones.bblm.verilog-hdl.comment-1</key>
-	<string>#686a71</string>
-	<key>com.barebones.bblm.vhdl.comment-1</key>
-	<string>#686a71</string>
+	<key>LiveSearchMatch</key>
+	<string>#438288</string>
+	<key>LiveSearchSelectedMatch</key>
+	<string>#786dc5</string>
+	<key>PrimaryHighlightColor</key>
+	<string>#53555d</string>
 	<key>SecondaryHighlightColor</key>
 	<string>#53555d</string>
-	<key>com.barebones.bblm.markdown.ImageAltText</key>
-	<string>#7e8086</string>
-	<key>com.barebones.bblm.code</key>
-	<string>#939599</string>
-	<key>com.barebones.bblm.TeX.verbatim</key>
-	<string>#939599</string>
-	<key>com.barebones.bblm.markdown.HorizontalRule</key>
-	<string>#939599</string>
-	<key>com.barebones.bblm.markdown.InlineCode</key>
-	<string>#939599</string>
-	<key>com.barebones.bblm.markdown.Pre</key>
-	<string>#939599</string>
-	<key>com.barebones.bblm.xml-empty</key>
-	<string>#939599</string>
-	<key>com.barebones.bblm.markdown.InlineLinkText</key>
-	<string>#b21889</string>
-	<key>com.barebones.bblm.variable</key>
-	<string>#b21889</string>
-	<key>com.barebones.bblm.sgml-tag</key>
-	<string>#b21889</string>
+	<key>SelectedMatchHighlight</key>
+	<string>#438288</string>
 	<key>SpellingColor</key>
 	<string>#b21889</string>
-	<key>com.barebones.bblm.markdown.ListItemMarker</key>
-	<string>#b21889</string>
-	<key>com.barebones.bblm.markdown.LinkDefUrl</key>
-	<string>#786dc5</string>
-	<key>com.barebones.bblm.html.attribute-name</key>
-	<string>#786dc5</string>
-	<key>com.barebones.bblm.number</key>
-	<string>#786dc5</string>
-	<key>com.barebones.bblm.verilog-hdl.input-type</key>
-	<string>#786dc5</string>
-	<key>com.barebones.bblm.css.color-spec</key>
-	<string>#438288</string>
-	<key>com.barebones.bblm.indexed-symbol</key>
-	<string>#438288</string>
-	<key>com.barebones.bblm.perl.outer-pod</key>
-	<string>#438288</string>
-	<key>com.barebones.bblm.ruby.symbol</key>
-	<string>#438288</string>
-	<key>com.barebones.bblm.sgml-entity</key>
-	<string>#438288</string>
-	<key>com.barebones.bblm.verilog-hdl.register-type</key>
-	<string>#438288</string>
-	<key>com.barebones.bblm.verilog-hdl.wire-type</key>
-	<string>#438288</string>
-	<key>com.barebones.bblm.perl.pre-generic-string</key>
-	<string>#df0002</string>
+	<key>SublineDifferenceHighlightColor</key>
+	<string>#686a71</string>
+	<key>UseCustomHighlightColor</key>
+	<true/>
+	<key>com.barebones.bblm.JavaScript.error</key>
+	<string>#c77c48</string>
+	<key>com.barebones.bblm.JavaScript.regexp</key>
+	<string>#00a0be</string>
+	<key>com.barebones.bblm.Pyth.decorator</key>
+	<string>#790ead</string>
 	<key>com.barebones.bblm.Pyth.triple-string</key>
 	<string>#df0002</string>
 	<key>com.barebones.bblm.TeX.math-string</key>
 	<string>#df0002</string>
+	<key>com.barebones.bblm.TeX.param-content</key>
+	<string>#b21889</string>
+	<key>com.barebones.bblm.TeX.verbatim</key>
+	<string>#df0002</string>
+	<key>com.barebones.bblm.code</key>
+	<string>#df0002</string>
+	<key>com.barebones.bblm.comment</key>
+	<string>#686a71</string>
+	<key>com.barebones.bblm.css.color-spec</key>
+	<string>#786dc5</string>
+	<key>com.barebones.bblm.css.custom-property</key>
+	<string>#b21889</string>
+	<key>com.barebones.bblm.css.property</key>
+	<string>#790ead</string>
+	<key>com.barebones.bblm.css.vendor-property</key>
+	<string>#c77c48</string>
 	<key>com.barebones.bblm.file-include</key>
 	<string>#df0002</string>
-	<key>com.barebones.bblm.heredoc-string</key>
-	<string>#df0002</string>
-	<key>com.barebones.bblm.html.attribute-value</key>
-	<string>#df0002</string>
-	<key>com.barebones.bblm.markdown.LinkDefTitle</key>
-	<string>#df0002</string>
-	<key>com.barebones.bblm.perl.generic-string</key>
-	<string>#df0002</string>
-	<key>com.barebones.bblm.string</key>
-	<string>#df0002</string>
-	<key>com.barebones.bblm.markdown.QuotedContent</key>
-	<string>#00a0be</string>
+	<key>com.barebones.bblm.grep.charclass</key>
+	<string>#b21889</string>
 	<key>com.barebones.bblm.grep.escape-sequence</key>
+	<string>#00a0be</string>
+	<key>com.barebones.bblm.grep.metachar</key>
+	<string>#b21889</string>
+	<key>com.barebones.bblm.grep.metasequence</key>
 	<string>#00a0be</string>
 	<key>com.barebones.bblm.grep.posix-name</key>
 	<string>#00a0be</string>
-	<key>com.barebones.bblm.predefined-symbol</key>
-	<string>#00a0be</string>
-	<key>com.barebones.bblm.html.anchor</key>
-	<string>#00a0be</string>
-	<key>com.barebones.bblm.html.image</key>
-	<string>#00a0be</string>
-	<key>com.barebones.bblm.markdown.QuoteMarker</key>
-	<string>#00a0be</string>
-	<key>com.barebones.bblm.JavaScript.regexp</key>
-	<string>#00a0be</string>
-	<key>com.barebones.bblm.grep.metasequence</key>
-	<string>#00a0be</string>
-	<key>com.barebones.bblm.ruby.regexp</key>
-	<string>#00a0be</string>
-	<key>com.barebones.bblm.grep.repeat-data</key>
-	<string>#790ead</string>
 	<key>com.barebones.bblm.grep.repeat</key>
 	<string>#790ead</string>
-	<key>com.barebones.bblm.markdown.ImageId</key>
+	<key>com.barebones.bblm.grep.repeat-data</key>
 	<string>#790ead</string>
-	<key>com.barebones.bblm.markdown.LinkDefId</key>
+	<key>com.barebones.bblm.heredoc-string</key>
+	<string>#df0002</string>
+	<key>com.barebones.bblm.html.anchor</key>
 	<string>#790ead</string>
-	<key>com.barebones.bblm.Pyth.decorator</key>
-	<string>#790ead</string>
-	<key>com.barebones.bblm.grep.charclass</key>
+	<key>com.barebones.bblm.html.attribute-name</key>
+	<string>#786dc5</string>
+	<key>com.barebones.bblm.html.attribute-value</key>
+	<string>#df0002</string>
+	<key>com.barebones.bblm.html.image</key>
+	<string>#00a0be</string>
+	<key>com.barebones.bblm.indexed-symbol</key>
+	<string>#786dc5</string>
+	<key>com.barebones.bblm.keyword</key>
 	<string>#b21889</string>
-	<key>com.barebones.bblm.grep.metachar</key>
-	<string>#b21889</string>
+	<key>com.barebones.bblm.keyword-argument-name</key>
+	<string>#790ead</string>
 	<key>com.barebones.bblm.markdown.Emph</key>
 	<string>#b21889</string>
-	<key>com.barebones.bblm.TeX.param-content</key>
-	<string>#b21889</string>
-	<key>com.barebones.bblm.keyword</key>
+	<key>com.barebones.bblm.markdown.HorizontalRule</key>
+	<string>#939599</string>
+	<key>com.barebones.bblm.markdown.ImageAltText</key>
+	<string>#7e8086</string>
+	<key>com.barebones.bblm.markdown.ImageId</key>
+	<string>#790ead</string>
+	<key>com.barebones.bblm.markdown.InlineCode</key>
+	<string>#df0002</string>
+	<key>com.barebones.bblm.markdown.InlineLinkText</key>
 	<string>#b21889</string>
 	<key>com.barebones.bblm.markdown.Keyword</key>
 	<string>#b21889</string>
-	<key>com.barebones.bblm.JavaScript.error</key>
-	<string>#c77c48</string>
+	<key>com.barebones.bblm.markdown.LinkDefId</key>
+	<string>#790ead</string>
+	<key>com.barebones.bblm.markdown.LinkDefTitle</key>
+	<string>#df0002</string>
+	<key>com.barebones.bblm.markdown.LinkDefUrl</key>
+	<string>#786dc5</string>
+	<key>com.barebones.bblm.markdown.ListItemMarker</key>
+	<string>#b21889</string>
+	<key>com.barebones.bblm.markdown.Pre</key>
+	<string>#df0002</string>
+	<key>com.barebones.bblm.markdown.QuoteMarker</key>
+	<string>#00a0be</string>
+	<key>com.barebones.bblm.markdown.QuotedContent</key>
+	<string>#00a0be</string>
+	<key>com.barebones.bblm.number</key>
+	<string>#786dc5</string>
+	<key>com.barebones.bblm.pdf.array</key>
+	<string>#939599</string>
+	<key>com.barebones.bblm.pdf.dict</key>
+	<string>#939599</string>
+	<key>com.barebones.bblm.pdf.stream</key>
+	<string>#df0002</string>
+	<key>com.barebones.bblm.perl.generic-string</key>
+	<string>#df0002</string>
+	<key>com.barebones.bblm.perl.outer-pod</key>
+	<string>#686a71</string>
+	<key>com.barebones.bblm.perl.pre-generic-string</key>
+	<string>#df0002</string>
+	<key>com.barebones.bblm.predefined-symbol</key>
+	<string>#00a0be</string>
 	<key>com.barebones.bblm.preprocessor</key>
 	<string>#c77c48</string>
+	<key>com.barebones.bblm.ruby.regexp</key>
+	<string>#00a0be</string>
+	<key>com.barebones.bblm.ruby.symbol</key>
+	<string>#786dc5</string>
 	<key>com.barebones.bblm.sgml-cdata</key>
 	<string>#c77c48</string>
 	<key>com.barebones.bblm.sgml-decl</key>
 	<string>#c77c48</string>
+	<key>com.barebones.bblm.sgml-entity</key>
+	<string>#00a0be</string>
+	<key>com.barebones.bblm.sgml-tag</key>
+	<string>#b21889</string>
+	<key>com.barebones.bblm.string</key>
+	<string>#df0002</string>
+	<key>com.barebones.bblm.syntax-error</key>
+	<string>#b21889</string>
+	<key>com.barebones.bblm.variable</key>
+	<string>#b21889</string>
+	<key>com.barebones.bblm.verilog-hdl.comment-1</key>
+	<string>#686a71</string>
+	<key>com.barebones.bblm.verilog-hdl.comment-2</key>
+	<string>#686a71</string>
+	<key>com.barebones.bblm.verilog-hdl.comment-3</key>
+	<string>#686a71</string>
+	<key>com.barebones.bblm.verilog-hdl.input-type</key>
+	<string>#786dc5</string>
 	<key>com.barebones.bblm.verilog-hdl.output-type</key>
 	<string>#c77c48</string>
+	<key>com.barebones.bblm.verilog-hdl.register-type</key>
+	<string>#438288</string>
+	<key>com.barebones.bblm.verilog-hdl.wire-type</key>
+	<string>#438288</string>
+	<key>com.barebones.bblm.vhdl.comment-1</key>
+	<string>#686a71</string>
+	<key>com.barebones.bblm.vhdl.comment-2</key>
+	<string>#686a71</string>
+	<key>com.barebones.bblm.vhdl.comment-3</key>
+	<string>#686a71</string>
+	<key>com.barebones.bblm.xml-empty</key>
+	<string>#939599</string>
 	<key>com.barebones.bblm.xml-pi</key>
 	<string>#c77c48</string>
 </dict>
