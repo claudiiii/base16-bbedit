@@ -3,31 +3,31 @@
 <plist version="1.0">
 <dict>
 	<key>BackgroundColor</key>
-	<string>#3f3f3f</string>
+	<string>#383838</string>
 	<key>InsertionPointLineHighlightColor</key>
 	<string>#404040</string>
 	<key>PrimaryHighlightColor</key>
 	<string>#606060</string>
 	<key>DifferenceHighlightColor</key>
-	<string>#4f4f4f</string>
+	<string>#6f6f6f</string>
 	<key>InvisibleOthersColor</key>
-	<string>#4f4f4f</string>
+	<string>#6f6f6f</string>
 	<key>InvisibleSpacesColor</key>
-	<string>#4f4f4f</string>
+	<string>#6f6f6f</string>
 	<key>com.barebones.bblm.comment</key>
-	<string>#4f4f4f</string>
+	<string>#6f6f6f</string>
 	<key>com.barebones.bblm.verilog-hdl.comment-3</key>
-	<string>#4f4f4f</string>
+	<string>#6f6f6f</string>
 	<key>com.barebones.bblm.vhdl.comment-3</key>
-	<string>#4f4f4f</string>
+	<string>#6f6f6f</string>
 	<key>com.barebones.bblm.verilog-hdl.comment-2</key>
-	<string>#4f4f4f</string>
+	<string>#6f6f6f</string>
 	<key>com.barebones.bblm.vhdl.comment-2</key>
-	<string>#4f4f4f</string>
+	<string>#6f6f6f</string>
 	<key>com.barebones.bblm.verilog-hdl.comment-1</key>
-	<string>#4f4f4f</string>
+	<string>#6f6f6f</string>
 	<key>com.barebones.bblm.vhdl.comment-1</key>
-	<string>#4f4f4f</string>
+	<string>#6f6f6f</string>
 	<key>SecondaryHighlightColor</key>
 	<string>#606060</string>
 	<key>com.barebones.bblm.markdown.ImageAltText</key>

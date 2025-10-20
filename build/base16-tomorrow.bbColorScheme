@@ -7,43 +7,43 @@
 	<key>InsertionPointLineHighlightColor</key>
 	<string>#e0e0e0</string>
 	<key>PrimaryHighlightColor</key>
-	<string>#d6d6d6</string>
+	<string>#c5c8c6</string>
 	<key>DifferenceHighlightColor</key>
-	<string>#8e908c</string>
+	<string>#b4b7b4</string>
 	<key>InvisibleOthersColor</key>
-	<string>#8e908c</string>
+	<string>#b4b7b4</string>
 	<key>InvisibleSpacesColor</key>
-	<string>#8e908c</string>
+	<string>#b4b7b4</string>
 	<key>com.barebones.bblm.comment</key>
-	<string>#8e908c</string>
+	<string>#b4b7b4</string>
 	<key>com.barebones.bblm.verilog-hdl.comment-3</key>
-	<string>#8e908c</string>
+	<string>#b4b7b4</string>
 	<key>com.barebones.bblm.vhdl.comment-3</key>
-	<string>#8e908c</string>
+	<string>#b4b7b4</string>
 	<key>com.barebones.bblm.verilog-hdl.comment-2</key>
-	<string>#8e908c</string>
+	<string>#b4b7b4</string>
 	<key>com.barebones.bblm.vhdl.comment-2</key>
-	<string>#8e908c</string>
+	<string>#b4b7b4</string>
 	<key>com.barebones.bblm.verilog-hdl.comment-1</key>
-	<string>#8e908c</string>
+	<string>#b4b7b4</string>
 	<key>com.barebones.bblm.vhdl.comment-1</key>
-	<string>#8e908c</string>
+	<string>#b4b7b4</string>
 	<key>SecondaryHighlightColor</key>
-	<string>#d6d6d6</string>
+	<string>#c5c8c6</string>
 	<key>com.barebones.bblm.markdown.ImageAltText</key>
 	<string>#969896</string>
 	<key>com.barebones.bblm.code</key>
-	<string>#4d4d4c</string>
+	<string>#373b41</string>
 	<key>com.barebones.bblm.TeX.verbatim</key>
-	<string>#4d4d4c</string>
+	<string>#373b41</string>
 	<key>com.barebones.bblm.markdown.HorizontalRule</key>
-	<string>#4d4d4c</string>
+	<string>#373b41</string>
 	<key>com.barebones.bblm.markdown.InlineCode</key>
-	<string>#4d4d4c</string>
+	<string>#373b41</string>
 	<key>com.barebones.bblm.markdown.Pre</key>
-	<string>#4d4d4c</string>
+	<string>#373b41</string>
 	<key>com.barebones.bblm.xml-empty</key>
-	<string>#4d4d4c</string>
+	<string>#373b41</string>
 	<key>com.barebones.bblm.markdown.InlineLinkText</key>
 	<string>#c82829</string>
 	<key>com.barebones.bblm.variable</key>
