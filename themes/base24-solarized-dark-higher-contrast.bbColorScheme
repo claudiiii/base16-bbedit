@@ -5,7 +5,7 @@
 	<key>BackgroundColor</key>
 	<string>#001e26</string>
 	<key>DelimiterMatchHighlight</key>
-	<string>#aec2ba</string>
+	<string>#178dc7</string>
 	<key>DifferenceHighlightColor</key>
 	<string>#3a8298</string>
 	<key>InsertionPointLineHighlightColor</key>
