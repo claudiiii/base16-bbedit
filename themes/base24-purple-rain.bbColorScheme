@@ -129,7 +129,7 @@
 	<key>com.barebones.bblm.perl.pre-generic-string</key>
 	<string>#9ae204</string>
 	<key>com.barebones.bblm.predefined-symbol</key>
-	<string>#00ddef</string>
+	<string>#ffc400</string>
 	<key>com.barebones.bblm.preprocessor</key>
 	<string>#7f1306</string>
 	<key>com.barebones.bblm.ruby.regexp</key>
