@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>BackgroundColor</key>
-	<string>#fafafa</string>
+	<string>#2a2b32</string>
 	<key>DelimiterMatchHighlight</key>
-	<string>#61afef</string>
+	<string>#c0aa00</string>
 	<key>DifferenceHighlightColor</key>
 	<string>#797c84</string>
 	<key>InsertionPointLineHighlightColor</key>
@@ -15,7 +15,7 @@
 	<key>InvisibleSpacesColor</key>
 	<string>#797c84</string>
 	<key>LiveSearchMatch</key>
-	<string>#61afef</string>
+	<string>#c0aa00</string>
 	<key>LiveSearchSelectedMatch</key>
 	<string>#c08400</string>
 	<key>PrimaryHighlightColor</key>
@@ -23,7 +23,7 @@
 	<key>SecondaryHighlightColor</key>
 	<string>#4f525d</string>
 	<key>SelectedMatchHighlight</key>
-	<string>#61afef</string>
+	<string>#c0aa00</string>
 	<key>SpellingColor</key>
 	<string>#e45649</string>
 	<key>SublineDifferenceHighlightColor</key>
@@ -161,9 +161,9 @@
 	<key>com.barebones.bblm.verilog-hdl.output-type</key>
 	<string>#722b24</string>
 	<key>com.barebones.bblm.verilog-hdl.register-type</key>
-	<string>#61afef</string>
+	<string>#c0aa00</string>
 	<key>com.barebones.bblm.verilog-hdl.wire-type</key>
-	<string>#61afef</string>
+	<string>#c0aa00</string>
 	<key>com.barebones.bblm.vhdl.comment-1</key>
 	<string>#797c84</string>
 	<key>com.barebones.bblm.vhdl.comment-2</key>
