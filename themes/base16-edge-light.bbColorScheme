@@ -7,27 +7,27 @@
 	<key>DelimiterMatchHighlight</key>
 	<string>#ebcc1a</string>
 	<key>DifferenceHighlightColor</key>
-	<string>#5e646f</string>
+	<string>#9197a1</string>
 	<key>InsertionPointLineHighlightColor</key>
-	<string>#7c9f4b</string>
+	<string>#e3e5e8</string>
 	<key>InvisibleOthersColor</key>
-	<string>#5e646f</string>
+	<string>#9197a1</string>
 	<key>InvisibleSpacesColor</key>
-	<string>#5e646f</string>
+	<string>#9197a1</string>
 	<key>LiveSearchMatch</key>
 	<string>#ebcc1a</string>
 	<key>LiveSearchSelectedMatch</key>
 	<string>#eba31a</string>
 	<key>PrimaryHighlightColor</key>
-	<string>#d69822</string>
+	<string>#acb1b9</string>
 	<key>SecondaryHighlightColor</key>
-	<string>#d69822</string>
+	<string>#acb1b9</string>
 	<key>SelectedMatchHighlight</key>
 	<string>#ebcc1a</string>
 	<key>SpellingColor</key>
 	<string>#db7070</string>
 	<key>SublineDifferenceHighlightColor</key>
-	<string>#5e646f</string>
+	<string>#9197a1</string>
 	<key>UseCustomHighlightColor</key>
 	<true/>
 	<key>com.barebones.bblm.JavaScript.regexp</key>
@@ -43,9 +43,9 @@
 	<key>com.barebones.bblm.TeX.verbatim</key>
 	<string>#7c9f4b</string>
 	<key>com.barebones.bblm.code</key>
-	<string>#5e646f</string>
+	<string>#474752</string>
 	<key>com.barebones.bblm.comment</key>
-	<string>#5e646f</string>
+	<string>#9197a1</string>
 	<key>com.barebones.bblm.css.color-spec</key>
 	<string>#eba31a</string>
 	<key>com.barebones.bblm.css.custom-property</key>
@@ -89,9 +89,9 @@
 	<key>com.barebones.bblm.markdown.Emph</key>
 	<string>#b870ce</string>
 	<key>com.barebones.bblm.markdown.HorizontalRule</key>
-	<string>#5e646f</string>
+	<string>#474752</string>
 	<key>com.barebones.bblm.markdown.ImageAltText</key>
-	<string>#6587bf</string>
+	<string>#5e646f</string>
 	<key>com.barebones.bblm.markdown.ImageId</key>
 	<string>#6587bf</string>
 	<key>com.barebones.bblm.markdown.InlineCode</key>
@@ -117,15 +117,15 @@
 	<key>com.barebones.bblm.number</key>
 	<string>#eba31a</string>
 	<key>com.barebones.bblm.pdf.array</key>
-	<string>#5e646f</string>
+	<string>#474752</string>
 	<key>com.barebones.bblm.pdf.dict</key>
-	<string>#5e646f</string>
+	<string>#474752</string>
 	<key>com.barebones.bblm.pdf.stream</key>
 	<string>#7c9f4b</string>
 	<key>com.barebones.bblm.perl.generic-string</key>
 	<string>#7c9f4b</string>
 	<key>com.barebones.bblm.perl.outer-pod</key>
-	<string>#5e646f</string>
+	<string>#9197a1</string>
 	<key>com.barebones.bblm.perl.pre-generic-string</key>
 	<string>#7c9f4b</string>
 	<key>com.barebones.bblm.predefined-symbol</key>
@@ -151,11 +151,11 @@
 	<key>com.barebones.bblm.variable</key>
 	<string>#db7070</string>
 	<key>com.barebones.bblm.verilog-hdl.comment-1</key>
-	<string>#5e646f</string>
+	<string>#9197a1</string>
 	<key>com.barebones.bblm.verilog-hdl.comment-2</key>
-	<string>#5e646f</string>
+	<string>#9197a1</string>
 	<key>com.barebones.bblm.verilog-hdl.comment-3</key>
-	<string>#5e646f</string>
+	<string>#9197a1</string>
 	<key>com.barebones.bblm.verilog-hdl.input-type</key>
 	<string>#eba31a</string>
 	<key>com.barebones.bblm.verilog-hdl.output-type</key>
@@ -165,13 +165,13 @@
 	<key>com.barebones.bblm.verilog-hdl.wire-type</key>
 	<string>#ebcc1a</string>
 	<key>com.barebones.bblm.vhdl.comment-1</key>
-	<string>#5e646f</string>
+	<string>#9197a1</string>
 	<key>com.barebones.bblm.vhdl.comment-2</key>
-	<string>#5e646f</string>
+	<string>#9197a1</string>
 	<key>com.barebones.bblm.vhdl.comment-3</key>
-	<string>#5e646f</string>
+	<string>#9197a1</string>
 	<key>com.barebones.bblm.xml-empty</key>
-	<string>#5e646f</string>
+	<string>#474752</string>
 	<key>com.barebones.bblm.xml-pi</key>
 	<string>#509c93</string>
 </dict>
