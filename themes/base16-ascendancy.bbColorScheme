@@ -25,7 +25,7 @@
 	<key>SelectedMatchHighlight</key>
 	<string>#ffcc1b</string>
 	<key>SpellingColor</key>
-	<string>#c03900</string>
+	<string>#d05000</string>
 	<key>SublineDifferenceHighlightColor</key>
 	<string>#928374</string>
 	<key>UseCustomHighlightColor</key>
@@ -49,7 +49,7 @@
 	<key>com.barebones.bblm.css.color-spec</key>
 	<string>#fe8019</string>
 	<key>com.barebones.bblm.css.custom-property</key>
-	<string>#c03900</string>
+	<string>#d05000</string>
 	<key>com.barebones.bblm.css.property</key>
 	<string>#458588</string>
 	<key>com.barebones.bblm.css.vendor-property</key>
@@ -97,7 +97,7 @@
 	<key>com.barebones.bblm.markdown.InlineCode</key>
 	<string>#b8bb26</string>
 	<key>com.barebones.bblm.markdown.InlineLinkText</key>
-	<string>#c03900</string>
+	<string>#d05000</string>
 	<key>com.barebones.bblm.markdown.Keyword</key>
 	<string>#fabd2f</string>
 	<key>com.barebones.bblm.markdown.LinkDefId</key>
@@ -107,7 +107,7 @@
 	<key>com.barebones.bblm.markdown.LinkDefUrl</key>
 	<string>#fe8019</string>
 	<key>com.barebones.bblm.markdown.ListItemMarker</key>
-	<string>#c03900</string>
+	<string>#d05000</string>
 	<key>com.barebones.bblm.markdown.Pre</key>
 	<string>#b8bb26</string>
 	<key>com.barebones.bblm.markdown.QuoteMarker</key>
@@ -143,13 +143,13 @@
 	<key>com.barebones.bblm.sgml-entity</key>
 	<string>#8f3f71</string>
 	<key>com.barebones.bblm.sgml-tag</key>
-	<string>#c03900</string>
+	<string>#d05000</string>
 	<key>com.barebones.bblm.string</key>
 	<string>#b8bb26</string>
 	<key>com.barebones.bblm.syntax-error</key>
-	<string>#c03900</string>
+	<string>#d05000</string>
 	<key>com.barebones.bblm.variable</key>
-	<string>#c03900</string>
+	<string>#d05000</string>
 	<key>com.barebones.bblm.verilog-hdl.comment-1</key>
 	<string>#928374</string>
 	<key>com.barebones.bblm.verilog-hdl.comment-2</key>
